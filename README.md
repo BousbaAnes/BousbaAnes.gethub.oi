@@ -1,2 +1,2 @@
-[dede.html](https://github.com/user-attachments/files/33028646/dede.html)
-[index.html](https://github.com/user-attachments/files/33028648/index.html)[kiki.html](https://github.com/user-attachments/files/33028649/kiki.html)
+(https://github.com/user-attachments/files/33028649/kiki.html)
+[kiki.html](https://github.com/user-attachments/files/33068819/kiki.html)[dede.html](https://github.com/user-attachments/files/33068820/dede.html)
